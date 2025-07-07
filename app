@@ -1,6 +1,6 @@
 this is my source code application
 
-this is modified line for develop branch
+this line is for feature branch
 
 this line added in UI or GIT
 
