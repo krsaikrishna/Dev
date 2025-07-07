@@ -1,11 +1,6 @@
 this is my source code application
 
-this is modified line for develop branch
+this is modified line for main branch
 
 this line added in UI or GIT
 
-sec commit
-
-third commit
-
-fourth commit
